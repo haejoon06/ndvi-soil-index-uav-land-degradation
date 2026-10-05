@@ -1,0 +1,4 @@
+Model,Healthy,Slight,Moderate,Severe
+U-Net (pixel),0.919,0.9337,0.9317,0.9756
+XGBoost baseline 14f (tile),0.9713,0.9721,0.9443,0.9881
+XGBoost cascade 24f (tile),0.9756,0.9878,0.9832,0.9968

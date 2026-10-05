@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or workflow, please cite this repository and the accompanying manuscript."
+title: "An Expert-Reviewed NDVI-Soil Index Framework Using Multispectral UAV Imagery for Land Degradation Classification"
+type: software
+version: 1.0.0
+date-released: 2026-10-05
+repository-code: "https://github.com/haejoon06/ndvi-soil-index-uav-land-degradation"
+license: MIT
+authors:
+  - family-names: Baihaqi
+    given-names: Kiki Ahmad
+    affiliation: Universitas Kristen Satya Wacana
+  - family-names: Sediyono
+    given-names: Eko
+    affiliation: Universitas Kristen Satya Wacana
+  - family-names: Dewi
+    given-names: Christine
+    affiliation: Universitas Kristen Satya Wacana
+  - family-names: Widiasari
+    given-names: Indrastanti Ratna
+    affiliation: Universitas Kristen Satya Wacana
+

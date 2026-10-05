@@ -1,0 +1,33 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local and generated research data
+data/*
+!data/README.md
+ANALYSIS_RESULTS/
+masks/
+dataset/
+models/
+reports/
+OUTPUT/
+DJI_202605021610_001_Create-Area-Route2/
+
+# Large model and array artifacts
+*.ckpt
+*.npy
+*.npz
+*.pt
+*.pth
+*.safetensors
+
+# Local archives and logs
+*.log
+*.zip
+*.tar
+*.tar.gz
+

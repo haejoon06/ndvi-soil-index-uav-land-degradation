@@ -1,0 +1,5 @@
+Model,Split,Accuracy,F1,Precision,Recall
+baseline_14f,validation,0.979152,0.96765,0.967707,0.967606
+baseline_14f,test,0.977728,0.96896,0.969042,0.968901
+cascade_24f,validation,0.993677,0.981198,0.986317,0.976304
+cascade_24f,test,0.99288,0.985841,0.988986,0.982806

@@ -1,0 +1,4 @@
+Model,EvaluationLevel,Accuracy,IoU,Dice,F1
+U-Net,pixel,0.951907,0.856011,0.919357,0.919357
+XGBoost baseline 14f,tile,0.977728,,,0.96896
+XGBoost cascade 24f,tile,0.99288,,,0.985841

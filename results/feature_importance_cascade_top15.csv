@@ -1,0 +1,16 @@
+feature,importance
+prob_severe_mean,0.280702
+prob_slight_mean,0.152231
+ndvi_mean,0.14364
+prob_moderate_mean,0.078682
+prob_slight_std,0.068029
+prob_severe_std,0.061303
+ndvi_hist_3,0.0543
+ndvi_hist_6,0.049917
+prob_moderate_std,0.033429
+ndvi_hist_5,0.024266
+ndvi_hist_4,0.018541
+prob_healthy_std,0.009728
+prob_healthy_mean,0.008681
+dominant_confidence_mean,0.002378
+ndvi_hist_0,0.002192

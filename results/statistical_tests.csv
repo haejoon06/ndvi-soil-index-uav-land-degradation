@@ -1,0 +1,4 @@
+Test,Comparison,n,statistic,p_value,effect_size,notes
+McNemar tile correct,baseline_14f vs cascade_24f,17556,176.444724,0.0,0.015152,n10=66; n01=332; acc_base=0.9777; acc_cascade=0.9929
+Wilcoxon tile correct,cascade vs baseline,17556,66234.0,7.402256e-41,0.015152,one-sided cascade > baseline
+Paired t-test tile correct,cascade vs baseline,17556,13.40102,4.729491e-41,0.015152,one-sided cascade > baseline
